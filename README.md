@@ -1,9 +1,8 @@
-![computer_gif](https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif)
-### Hello! Welcome to my github!
-![computer_gif](https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif)
-
-### Hi there 👋
-
+<div>
+  <img width="100" height="100" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif">
+  <span>Hello! Welcome to my github!</span>
+  <img width="100" height="100" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif">
+</div>
 <!--
 **BensonJBeck/BensonJBeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
