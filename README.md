@@ -1,4 +1,5 @@
 ![computer_gif](https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif)
+### Hello! Welcome to my github!
 ![computer_gif](https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif)
 
 ### Hi there 👋
