@@ -5,7 +5,6 @@
   <p>Bachelors in Computer Science</p>
   <li>Python : Selenium, Flask, SQLAlchemy, BeautifulSoup</li>
   <li>Java : JDBC, JUnit, Mockito, Maven, TDD, 
-
 <ul>
     <li>Python</li>
     <ul>
@@ -15,6 +14,11 @@
         <li>BeautifulSoup</li>
     </ul>
     <li>Java</li>
+    <ul>
+      <li></li>
+            <li></li>
+            <li></li>
+    </ul>  
 </ul>
     
 <h2>Contact Information</h2>
