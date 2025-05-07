@@ -31,4 +31,4 @@
 
 ## 📫 Contact
 
-Feel free to explore my repositories or reach out via [LinkedIn](#) or [
+Feel free to explore my repositories or reach out via [LinkedIn](www.linkedin.com/in/benson-beck-80bbb429b) or by emailing me at bensonjbeck1@gmail.com, thanks for stopping by!
