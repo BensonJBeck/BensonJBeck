@@ -1,22 +1,26 @@
 
-<div>
-  <img width="20" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif">
-  <img width="20" height="100"src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/loading.gif">
-  <img width="20"src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif">
-</div>
 
-<div>
-  <li>University of Pittsburgh</li>
-  <li>Bachelor of Computer Science</li>
-  <li></li>
-</div>
+<h2>Education and Experience</h2>
+  <p>University of Pittsburgh (Aug.2021-May.2025)</p>
+  <p>Bachelors in Computer Science</p>
+  <li>Python : Selenium, Flask, SQLAlchemy, BeautifulSoup</li>
+  <li>Java : JDBC, JUnit, Mockito, Maven, TDD, 
 
-<div>
-  <h2>Contact Information</h2>
+<ul>
+    <li>Python</li>
+    <ul>
+        <li>Selenium</li>
+        <li>Flask</li>
+        <li>SQLAlchemy</li>
+        <li>BeautifulSoup</li>
+    </ul>
+    <li>Java</li>
+</ul>
+    
+<h2>Contact Information</h2>
   <li>Email : bensonjbeck1@gmail.com</li>
   <li>Linkedin : Benson Beck</li>
-</div>
-
+  
 <div>
   <img width="50" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/C.svg">
   <img width="50" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/CPP.svg">
