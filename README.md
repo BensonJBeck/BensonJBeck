@@ -1,8 +1,3 @@
-<div>
-  <img width="100" height="100" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/wizard.gif">
-  <img width="500" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/welcome_banner.png">
-  <img width="100" height="100" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/penguin.gif">
-</div>
 
 <div>
   <img width="40" src="https://github.com/BensonJBeck/BensonJBeck/blob/main/images/computer.gif">
